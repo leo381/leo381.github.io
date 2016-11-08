@@ -1,59 +1,80 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="leo381.github.io" resolutions="1x" timestamp="1478621393737">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="leo381.github.io" resolutions="1x" timestamp="1478645241512">
   <folder name="css">
-    <file name="site_global.css" crc="4052507572"/>
-    <file name="social-media.css" crc="202407424" ref="social-media"/>
-    <file name="index.css" crc="3538985" ref="index"/>
-  </folder>
-  <folder name="assets">
-    <file name="_.ds_store" crc="3809186884" seo="true" mt="1422926162000"/>
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-mestre.css" crc="3915434330" ref="batizado:hosh-hashaná:almoço:sem-título-20:quem-somos:happy-hour:imprensa:contato:jantar-americano:chá-de-bêbê:index:menu:um-menu-exclusivo-para-você.-consulte--nos!:páscoa-2013:chá-da-tarde:galeria:kids:pessach-2013:encomendas:brunch:jantar"/>
+    <file name="nomq_preview_master_a-mestre.css" crc="3824530138" ref="batizado:hosh-hashaná:almoço:sem-título-20:quem-somos:happy-hour:imprensa:contato:jantar-americano:chá-de-bêbê:index:menu:um-menu-exclusivo-para-você.-consulte--nos!:páscoa-2013:chá-da-tarde:galeria:kids:pessach-2013:encomendas:brunch:jantar"/>
+    <file name="batizado.css" crc="445623055" ref="batizado"/>
+    <file name="hosh-hashan_.css" crc="445623055" ref="hosh-hashaná"/>
+    <file name="almo_o.css" crc="445623055" ref="almoço"/>
+    <file name="sem-t_tulo-20.css" crc="445623055" ref="sem-título-20"/>
+    <file name="quem-somos.css" crc="4161119995" ref="quem-somos"/>
+    <file name="happy-hour.css" crc="445623055" ref="happy-hour"/>
+    <file name="imprensa.css" crc="445623055" ref="imprensa"/>
+    <file name="contato.css" crc="445623055" ref="contato"/>
+    <file name="jantar-americano.css" crc="445623055" ref="jantar-americano"/>
+    <file name="ch_-de-b_b_.css" crc="445623055" ref="chá-de-bêbê"/>
+    <file name="index.css" crc="45774364" ref="index"/>
+    <file name="nomq_index.css" crc="10726847" ref="index"/>
+    <file name="menu.css" crc="4218806606" ref="menu"/>
+    <file name="um-menu-exclusivo-para-voc__-consulte--nos_.css" crc="445623055" ref="um-menu-exclusivo-para-você.-consulte--nos!"/>
+    <file name="p_scoa-2013.css" crc="445623055" ref="páscoa-2013"/>
+    <file name="ch_-da-tarde.css" crc="445623055" ref="chá-da-tarde"/>
+    <file name="galeria.css" crc="445623055" ref="galeria"/>
+    <file name="kids.css" crc="445623055" ref="kids"/>
+    <file name="pessach-2013.css" crc="445623055" ref="pessach-2013"/>
+    <file name="encomendas.css" crc="445623055" ref="encomendas"/>
+    <file name="brunch.css" crc="445623055" ref="brunch"/>
+    <file name="jantar.css" crc="445623055" ref="jantar"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato:index:social-media"/>
-    <file name="museutils.js" crc="183364071" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato:index:social-media"/>
-    <file name="jquery.scrolleffects.js" crc="3860644955" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato"/>
-    <file name="jquery.musemenu.js" crc="3957776250" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato"/>
-    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato:index:social-media"/>
-    <file name="webpro.js" crc="3803554875" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato:index"/>
-    <file name="musewpdisclosure.js" crc="3993616448" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato:index:social-media"/>
-    <file name="pie.js" crc="3827607177" ref="phone>quem-somos:index"/>
-    <file name="museredirect.js" crc="40941066" ref="index"/>
-    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
-    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:quem-somos:menu:galeria:encomendas:imprensa:contato:brunch:chá-da-tarde:pessach-2013:almoço:hosh-hashaná:jantar:páscoa-2013:kids:jantar-americano:happy-hour:chá-de-bêbê:batizado:sem-título-20:um-menu-exclusivo-para-você.-consulte--nos!"/>
+    <file name="museutils.js" crc="163421577" ref="index:quem-somos:menu:galeria:encomendas:imprensa:contato:brunch:chá-da-tarde:pessach-2013:almoço:hosh-hashaná:jantar:páscoa-2013:kids:jantar-americano:happy-hour:chá-de-bêbê:batizado:sem-título-20:um-menu-exclusivo-para-você.-consulte--nos!"/>
+    <file name="whatinput.js" crc="86476730" ref="index:quem-somos:menu:galeria:encomendas:imprensa:contato:brunch:chá-da-tarde:pessach-2013:almoço:hosh-hashaná:jantar:páscoa-2013:kids:jantar-americano:happy-hour:chá-de-bêbê:batizado:sem-título-20:um-menu-exclusivo-para-você.-consulte--nos!"/>
+    <file name="museconfig.js" crc="36584860" ref="index:quem-somos:menu:galeria:encomendas:imprensa:contato:brunch:chá-da-tarde:pessach-2013:almoço:hosh-hashaná:jantar:páscoa-2013:kids:jantar-americano:happy-hour:chá-de-bêbê:batizado:sem-título-20:um-menu-exclusivo-para-você.-consulte--nos!"/>
+    <file name="webpro.js" crc="3848665353" ref="index:quem-somos:menu:galeria:encomendas:imprensa:contato:brunch:chá-da-tarde:pessach-2013:almoço:hosh-hashaná:jantar:páscoa-2013:kids:jantar-americano:happy-hour:chá-de-bêbê:batizado:sem-título-20:um-menu-exclusivo-para-você.-consulte--nos!"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:quem-somos:menu:galeria:encomendas:imprensa:contato:brunch:chá-da-tarde:pessach-2013:almoço:hosh-hashaná:jantar:páscoa-2013:kids:jantar-americano:happy-hour:chá-de-bêbê:batizado:sem-título-20:um-menu-exclusivo-para-você.-consulte--nos!"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:quem-somos:menu:galeria:encomendas:imprensa:contato:brunch:chá-da-tarde:pessach-2013:almoço:hosh-hashaná:jantar:páscoa-2013:kids:jantar-americano:happy-hour:chá-de-bêbê:batizado:sem-título-20:um-menu-exclusivo-para-você.-consulte--nos!"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:quem-somos:menu:galeria:encomendas:imprensa:contato:brunch:chá-da-tarde:pessach-2013:almoço:hosh-hashaná:jantar:páscoa-2013:kids:jantar-americano:happy-hour:chá-de-bêbê:batizado:sem-título-20:um-menu-exclusivo-para-você.-consulte--nos!"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:quem-somos:menu:galeria:encomendas:imprensa:contato:brunch:chá-da-tarde:pessach-2013:almoço:hosh-hashaná:jantar:páscoa-2013:kids:jantar-americano:happy-hour:chá-de-bêbê:batizado:sem-título-20:um-menu-exclusivo-para-você.-consulte--nos!"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:quem-somos:menu:galeria:encomendas:imprensa:contato:brunch:chá-da-tarde:pessach-2013:almoço:hosh-hashaná:jantar:páscoa-2013:kids:jantar-americano:happy-hour:chá-de-bêbê:batizado:sem-título-20:um-menu-exclusivo-para-você.-consulte--nos!"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:quem-somos:menu:galeria:encomendas:imprensa:contato:brunch:chá-da-tarde:pessach-2013:almoço:hosh-hashaná:jantar:páscoa-2013:kids:jantar-americano:happy-hour:chá-de-bêbê:batizado:sem-título-20:um-menu-exclusivo-para-você.-consulte--nos!"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index:quem-somos:menu:galeria:encomendas:imprensa:contato:brunch:chá-da-tarde:pessach-2013:almoço:hosh-hashaná:jantar:páscoa-2013:kids:jantar-americano:happy-hour:chá-de-bêbê:batizado:sem-título-20:um-menu-exclusivo-para-você.-consulte--nos!"/>
   </folder>
   <folder name="images">
-    <file name="logo_home.png" crc="3985274681" seo="true" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato"/>
-    <file name="imagem colada 425x429.jpg" crc="169523731" seo="true" ref="phone>index"/>
-    <file name="u584-4.png" crc="13824005" ref="phone>index"/>
-    <file name="photo-1467003909585-2f8a72700288.jpg" crc="3937951062" seo="true" ref="phone>quem-somos"/>
-    <file name="6c3227b9db4049560c7b0c8978cf13b9.jpg" crc="3929782146" seo="true" ref="phone>quem-somos"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="photo-1430965914765-930206c18c13.jpg" crc="612322" seo="true" ref="index"/>
+    <file name="imagem colada 418x95-crop-u196.jpg" crc="4054167153" ref="index"/>
+    <file name="home.jpg" crc="4206942042" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="photo-1451955545619-8036c05af226.jpg" crc="350282724" seo="true" ref="index"/>
-    <file name="photo-1478059425650-ca13d6d422f4.jpg" crc="4096001330" seo="true" ref="index"/>
-    <file name="imagem colada 431x434-crop-u121.jpg" crc="3889373214" ref="index"/>
+    <file name="home2.jpg" crc="3979482281" seo="true" ref="index"/>
+    <file name="home3.jpg" crc="490830984" seo="true" ref="index"/>
+    <file name="home4.jpg" crc="3939853249" seo="true" ref="index"/>
+    <file name="natal.jpg" crc="3999255592" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="imagem colada 418x95.jpg" crc="3770789298" seo="true" ref="index"/>
+    <file name="martha_quem_somos_02.jpg" crc="33076600" seo="true" ref="quem-somos"/>
+    <file name="imagem colada 216x102.jpg" crc="86750181" seo="true" ref="quem-somos"/>
+    <file name="imagem colada 250x212.jpg" crc="4085132147" seo="true" ref="quem-somos"/>
+    <file name="imagem colada 216x1022.jpg" crc="3836805719" seo="true" ref="menu"/>
   </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="master_a-mestre.css" crc="4160314249" ref="phone>galeria:phone>index:phone>encomendas:phone>quem-somos:phone>imprensa:phone>menu:phone>contato"/>
-      <file name="galeria.css" crc="3904768633" ref="phone>galeria"/>
-      <file name="index.css" crc="128598765" ref="phone>index"/>
-      <file name="encomendas.css" crc="3904768633" ref="phone>encomendas"/>
-      <file name="quem-somos.css" crc="418508893" ref="phone>quem-somos"/>
-      <file name="imprensa.css" crc="3904768633" ref="phone>imprensa"/>
-      <file name="menu.css" crc="3904768633" ref="phone>menu"/>
-      <file name="contato.css" crc="3904768633" ref="phone>contato"/>
-    </folder>
-    <file name="index.html" crc="4135737640" seo="true" mt="1478620163690" redirect="true"/>
-    <file name="quem-somos.html" crc="4223198587" seo="true" mt="1478621190228" redirect="true"/>
-    <file name="menu.html" crc="52125008" seo="true" mt="1478620163690" redirect="true"/>
-    <file name="galeria.html" crc="127323527" seo="true" mt="1478620163690" redirect="true"/>
-    <file name="encomendas.html" crc="4114204468" seo="true" mt="1478620163690" redirect="true"/>
-    <file name="imprensa.html" crc="418170791" seo="true" mt="1478620163690" redirect="true"/>
-    <file name="contato.html" crc="3828189893" seo="true" mt="1478620163690" redirect="true"/>
-  </folder>
-  <file name="index.html" crc="403731456" seo="true" mt="1478619252308" redirect="true"/>
-  <file name="social-media.html" crc="3974451530" seo="true" mt="1478619252308" redirect="true"/>
+  <file name="index.html" crc="3946298084" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="quem-somos.html" crc="191778158" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="menu.html" crc="4038529194" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="galeria.html" crc="189678972" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="encomendas.html" crc="215440795" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="imprensa.html" crc="536534468" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="contato.html" crc="93361737" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="brunch.html" crc="390324716" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="chá-da-tarde.html" crc="35592737" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="pessach-2013.html" crc="3991409172" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="almoço.html" crc="3914552673" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="hosh-hashaná.html" crc="264019546" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="jantar.html" crc="4194182040" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="páscoa-2013.html" crc="423794430" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="kids.html" crc="138451808" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="jantar-americano.html" crc="4218496172" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="happy-hour.html" crc="4155767643" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="chá-de-bêbê.html" crc="4217699377" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="batizado.html" crc="4245144902" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="sem-título-20.html" crc="4230954679" seo="true" mt="1478645135412" redirect="true"/>
+  <file name="um-menu-exclusivo-para-você.-consulte--nos!.html" crc="4244174018" seo="true" mt="1478645135412" redirect="true"/>
 </manifest>
