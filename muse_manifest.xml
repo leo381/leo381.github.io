@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="leo381.github.io" resolutions="1x" timestamp="1478606121631">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="leo381.github.io" resolutions="1x" timestamp="1478621393737">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="social-media.css" crc="202407424" ref="social-media"/>
-    <file name="index.css" crc="165599003" ref="index"/>
+    <file name="index.css" crc="3538985" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="_.ds_store" crc="3809186884" seo="true" mt="1422926162000"/>
@@ -10,11 +10,11 @@
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato:index:social-media"/>
     <file name="museutils.js" crc="183364071" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato:index:social-media"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato"/>
     <file name="jquery.musemenu.js" crc="3957776250" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato"/>
     <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato:index:social-media"/>
     <file name="webpro.js" crc="3803554875" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato:index"/>
     <file name="musewpdisclosure.js" crc="3993616448" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato"/>
-    <file name="jquery.scrolleffects.js" crc="3860644955" ref="phone>index"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato:index:social-media"/>
     <file name="pie.js" crc="3827607177" ref="phone>quem-somos:index"/>
     <file name="museredirect.js" crc="40941066" ref="index"/>
@@ -27,6 +27,7 @@
     <file name="imagem colada 425x429.jpg" crc="169523731" seo="true" ref="phone>index"/>
     <file name="u584-4.png" crc="13824005" ref="phone>index"/>
     <file name="photo-1467003909585-2f8a72700288.jpg" crc="3937951062" seo="true" ref="phone>quem-somos"/>
+    <file name="6c3227b9db4049560c7b0c8978cf13b9.jpg" crc="3929782146" seo="true" ref="phone>quem-somos"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="photo-1430965914765-930206c18c13.jpg" crc="612322" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -36,23 +37,23 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-mestre.css" crc="4130595748" ref="phone>encomendas:phone>quem-somos:phone>imprensa:phone>menu:phone>contato:phone>galeria:phone>index"/>
-      <file name="encomendas.css" crc="290385360" ref="phone>encomendas"/>
-      <file name="quem-somos.css" crc="4081046980" ref="phone>quem-somos"/>
-      <file name="imprensa.css" crc="290385360" ref="phone>imprensa"/>
-      <file name="menu.css" crc="290385360" ref="phone>menu"/>
-      <file name="contato.css" crc="290385360" ref="phone>contato"/>
-      <file name="galeria.css" crc="290385360" ref="phone>galeria"/>
-      <file name="index.css" crc="535143287" ref="phone>index"/>
+      <file name="master_a-mestre.css" crc="4160314249" ref="phone>galeria:phone>index:phone>encomendas:phone>quem-somos:phone>imprensa:phone>menu:phone>contato"/>
+      <file name="galeria.css" crc="3904768633" ref="phone>galeria"/>
+      <file name="index.css" crc="128598765" ref="phone>index"/>
+      <file name="encomendas.css" crc="3904768633" ref="phone>encomendas"/>
+      <file name="quem-somos.css" crc="418508893" ref="phone>quem-somos"/>
+      <file name="imprensa.css" crc="3904768633" ref="phone>imprensa"/>
+      <file name="menu.css" crc="3904768633" ref="phone>menu"/>
+      <file name="contato.css" crc="3904768633" ref="phone>contato"/>
     </folder>
-    <file name="index.html" crc="149007926" seo="true" mt="1478606086704" redirect="true"/>
-    <file name="quem-somos.html" crc="248812855" seo="true" mt="1478606086704" redirect="true"/>
-    <file name="menu.html" crc="317408840" seo="true" mt="1478606086704" redirect="true"/>
-    <file name="galeria.html" crc="70777233" seo="true" mt="1478606086704" redirect="true"/>
-    <file name="encomendas.html" crc="4278413139" seo="true" mt="1478606086704" redirect="true"/>
-    <file name="imprensa.html" crc="393888567" seo="true" mt="1478606086704" redirect="true"/>
-    <file name="contato.html" crc="3987621683" seo="true" mt="1478606086704" redirect="true"/>
+    <file name="index.html" crc="4135737640" seo="true" mt="1478620163690" redirect="true"/>
+    <file name="quem-somos.html" crc="4223198587" seo="true" mt="1478621190228" redirect="true"/>
+    <file name="menu.html" crc="52125008" seo="true" mt="1478620163690" redirect="true"/>
+    <file name="galeria.html" crc="127323527" seo="true" mt="1478620163690" redirect="true"/>
+    <file name="encomendas.html" crc="4114204468" seo="true" mt="1478620163690" redirect="true"/>
+    <file name="imprensa.html" crc="418170791" seo="true" mt="1478620163690" redirect="true"/>
+    <file name="contato.html" crc="3828189893" seo="true" mt="1478620163690" redirect="true"/>
   </folder>
-  <file name="index.html" crc="403731456" seo="true" mt="1478605586152" redirect="true"/>
-  <file name="social-media.html" crc="3974451530" seo="true" mt="1478605586152" redirect="true"/>
+  <file name="index.html" crc="403731456" seo="true" mt="1478619252308" redirect="true"/>
+  <file name="social-media.html" crc="3974451530" seo="true" mt="1478619252308" redirect="true"/>
 </manifest>
