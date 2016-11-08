@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://leo381.github.io/assets/_.ds_store</loc>
+    <lastmod>2015-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://leo381.github.io/images/logo_home.png</loc>
+    <lastmod>2016-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://leo381.github.io/images/imagem%20colada%20425x429.jpg</loc>
+    <lastmod>2016-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://leo381.github.io/images/photo-1467003909585-2f8a72700288.jpg</loc>
+    <lastmod>2016-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://leo381.github.io/images/photo-1430965914765-930206c18c13.jpg</loc>
     <lastmod>2016-11-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -19,7 +43,37 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://leo381.github.io/phone/sem-t%C3%ADtulo-2.html</loc>
+    <loc>http://leo381.github.io/phone/quem-somos.html</loc>
+    <lastmod>2016-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://leo381.github.io/phone/menu.html</loc>
+    <lastmod>2016-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://leo381.github.io/phone/galeria.html</loc>
+    <lastmod>2016-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://leo381.github.io/phone/encomendas.html</loc>
+    <lastmod>2016-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://leo381.github.io/phone/imprensa.html</loc>
+    <lastmod>2016-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://leo381.github.io/phone/contato.html</loc>
     <lastmod>2016-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

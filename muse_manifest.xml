@@ -1,38 +1,58 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="leo381.github.io" resolutions="1x" timestamp="1478577456235">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="leo381.github.io" resolutions="1x" timestamp="1478605829174">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="4056065625" ref="index"/>
+    <file name="index.css" crc="165599003" ref="index"/>
     <file name="social-media.css" crc="202407424" ref="social-media"/>
   </folder>
+  <folder name="assets">
+    <file name="_.ds_store" crc="3809186884" seo="true" mt="1422926162000"/>
+  </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>sem-título-2:index:social-media"/>
-    <file name="museutils.js" crc="183364071" ref="phone>index:phone>sem-título-2:index:social-media"/>
-    <file name="webpro.js" crc="3803554875" ref="phone>index:index"/>
-    <file name="musewpslideshow.js" crc="242596657" ref="phone>index:index"/>
-    <file name="jquery.museoverlay.js" crc="493285861" ref="phone>index:index"/>
-    <file name="touchswipe.js" crc="4038331989" ref="phone>index:index"/>
-    <file name="pie.js" crc="3827607177" ref="phone>index:index"/>
-    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>sem-título-2:index:social-media"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato:index:social-media"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato:index:social-media"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato:index:social-media"/>
+    <file name="webpro.js" crc="3803554875" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato:index"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato:index:social-media"/>
+    <file name="pie.js" crc="3827607177" ref="phone>quem-somos:index"/>
     <file name="museredirect.js" crc="40941066" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="photo-1430965914765-930206c18c13.jpg" crc="612322" seo="true" ref="phone>index:index"/>
-    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
-    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
-    <file name="imagem colada 431x434-crop-u174.jpg" crc="3778177865" ref="phone>index"/>
-    <file name="u176-10.png" crc="342001824" ref="phone>index"/>
+    <file name="logo_home.png" crc="3985274681" seo="true" ref="phone>index:phone>quem-somos:phone>menu:phone>galeria:phone>encomendas:phone>imprensa:phone>contato"/>
+    <file name="imagem colada 425x429.jpg" crc="169523731" seo="true" ref="phone>index"/>
+    <file name="u584-4.png" crc="13824005" ref="phone>index"/>
+    <file name="photo-1467003909585-2f8a72700288.jpg" crc="3937951062" seo="true" ref="phone>quem-somos"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="photo-1430965914765-930206c18c13.jpg" crc="612322" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="photo-1451955545619-8036c05af226.jpg" crc="350282724" seo="true" ref="index"/>
     <file name="photo-1478059425650-ca13d6d422f4.jpg" crc="4096001330" seo="true" ref="index"/>
     <file name="imagem colada 431x434-crop-u121.jpg" crc="3889373214" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4265946086" ref="phone>index"/>
-      <file name="sem-t_tulo-2.css" crc="4107295331" ref="phone>sem-título-2"/>
+      <file name="master_a-mestre.css" crc="4130595748" ref="phone>contato:phone>imprensa:phone>encomendas:phone>index:phone>quem-somos:phone>galeria:phone>menu"/>
+      <file name="contato.css" crc="290385360" ref="phone>contato"/>
+      <file name="imprensa.css" crc="290385360" ref="phone>imprensa"/>
+      <file name="encomendas.css" crc="290385360" ref="phone>encomendas"/>
+      <file name="index.css" crc="4009602456" ref="phone>index"/>
+      <file name="quem-somos.css" crc="4081046980" ref="phone>quem-somos"/>
+      <file name="galeria.css" crc="290385360" ref="phone>galeria"/>
+      <file name="menu.css" crc="290385360" ref="phone>menu"/>
     </folder>
-    <file name="index.html" crc="260677432" seo="true" mt="1478577412289" redirect="true"/>
-    <file name="sem-título-2.html" crc="217479226" seo="true" mt="1478576940240" redirect="false"/>
+    <file name="index.html" crc="3802529757" seo="true" mt="1478605750592" redirect="true"/>
+    <file name="quem-somos.html" crc="3830941242" seo="true" mt="1478605750592" redirect="true"/>
+    <file name="menu.html" crc="4151930161" seo="true" mt="1478605750592" redirect="true"/>
+    <file name="galeria.html" crc="3896515097" seo="true" mt="1478605750592" redirect="true"/>
+    <file name="encomendas.html" crc="303821426" seo="true" mt="1478605750592" redirect="true"/>
+    <file name="imprensa.html" crc="85792636" seo="true" mt="1478605750592" redirect="true"/>
+    <file name="contato.html" crc="3845557450" seo="true" mt="1478605750592" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4082390099" seo="true" mt="1478576967000" redirect="true"/>
-  <file name="social-media.html" crc="528471069" seo="true" mt="1478576940237" redirect="true"/>
+  <file name="index.html" crc="403731456" seo="true" mt="1478605586152" redirect="true"/>
+  <file name="social-media.html" crc="3974451530" seo="true" mt="1478605586152" redirect="true"/>
 </manifest>
