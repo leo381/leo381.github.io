@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000000;
-	background-color: #2C1EDB;
+	color: #0000E4;
+	background-color: #7F487A;
 }
 
 .html
@@ -29,7 +29,6 @@
 	width: 920px;
 	background-color: #DCDCDC;
 	background-color: rgba(199,199,199,0.61);
-	border-radius: 15px;
 	position: relative;
 	-pie-background: rgba(199,199,199,0.61);
 }
@@ -52,15 +51,15 @@
 	-webkit-border-radius: 246px 246px 246px 246px;
 }
 
-#u97-10
+#u97-12
 {
 	z-index: 5;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 35px;
-	left: 301px;
+	margin-top: 19px;
+	left: 290px;
 }
 
 body

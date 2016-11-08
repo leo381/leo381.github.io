@@ -1,7 +1,7 @@
-.version.sem_t_tulo_3 /* version checker */
+.version.social_media /* version checker */
 {
-	color: #0000E4;
-	background-color: #C52BB0;
+	color: #000006;
+	background-color: #AFBD8B;
 }
 
 .html
@@ -12,26 +12,17 @@
 #page
 {
 	z-index: 1;
-	width: 671px;
-	min-height: 243px;
+	width: 0px;
+	min-height: 0px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
+	padding-top: 62px;
+	padding-right: 960px;
+	padding-bottom: 438px;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 109px 253px 148px 36px;
-}
-
-#u195-4
-{
-	z-index: 2;
-	width: 671px;
-	min-height: 243px;
-	background-color: transparent;
-	font-size: 72px;
-	line-height: 86px;
-	position: relative;
 }
 
 body

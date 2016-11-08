@@ -1,21 +1,21 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="leo381.github.io" resolutions="1x" timestamp="1478575020278">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="leo381.github.io" resolutions="1x" timestamp="1478575900236">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="sem-t_tulo-3.css" crc="3838127024" ref="sem-título-3"/>
-    <file name="index.css" crc="2891483" ref="index"/>
+    <file name="index.css" crc="3833546874" ref="index"/>
+    <file name="social-media.css" crc="112180619" ref="social-media"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>sem-título-2:index:sem-título-3"/>
-    <file name="museutils.js" crc="183364071" ref="phone>index:phone>sem-título-2:index:sem-título-3"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>sem-título-2:index:social-media"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:phone>sem-título-2:index:social-media"/>
     <file name="pie.js" crc="3827607177" ref="phone>index:index"/>
-    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>sem-título-2:index:sem-título-3"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>sem-título-2:index:social-media"/>
     <file name="museredirect.js" crc="40941066" ref="index"/>
   </folder>
   <folder name="images">
     <file name="imagem colada 431x434-crop-u174.jpg" crc="3778177865" ref="phone>index"/>
     <file name="u176-10.png" crc="342001824" ref="phone>index"/>
     <file name="imagem colada 431x434-crop-u121.jpg" crc="3889373214" ref="index"/>
-    <file name="u97-10.png" crc="459092443" ref="index"/>
+    <file name="u97-12.png" crc="3838567094" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -25,6 +25,6 @@
     <file name="index.html" crc="4217660843" seo="true" mt="1478574029128" redirect="true"/>
     <file name="sem-título-2.html" crc="217479226" seo="true" mt="1478573800081" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4253106056" seo="true" mt="1478574989468" redirect="true"/>
-  <file name="sem-título-3.html" crc="210797947" seo="true" mt="1478574956242" redirect="true"/>
+  <file name="index.html" crc="4142908254" seo="true" mt="1478575867235" redirect="true"/>
+  <file name="social-media.html" crc="326734597" seo="true" mt="1478575456935" redirect="false"/>
 </manifest>
