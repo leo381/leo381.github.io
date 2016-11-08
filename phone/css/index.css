@@ -1,7 +1,32 @@
 .version.index /* version checker */
 {
-	color: #0000EF;
-	background-color: #FF0D03;
+	color: #000015;
+	background-color: #C11556;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
 }
 
 .html
@@ -12,63 +37,67 @@
 #page
 {
 	z-index: 1;
-	width: 920px;
-	min-height: 183px;
+	width: 380px;
+	min-height: 350px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	margin-left: auto;
-	margin-right: auto;
-	padding: 254px 20px 63px;
+	padding-top: 71px;
+	padding-bottom: 149px;
 }
 
-#u95
+#u173
 {
 	z-index: 2;
-	width: 920px;
+	min-height: 349.95px;
 	background-color: #DCDCDC;
 	background-color: rgba(199,199,199,0.61);
 	border-radius: 15px;
-	position: relative;
+	padding-bottom: 0px;
 	-pie-background: rgba(199,199,199,0.61);
 }
 
-#u121
+#u173_position_content
 {
-	z-index: 3;
-	width: 251px;
-	background-color: transparent;
-	border-radius: 246px;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 1px;
-	left: 26px;
+	padding-top: 10px;
 }
 
-#u121 .clip_frame
+#u174
+{
+	z-index: 3;
+	width: 171px;
+	background-color: transparent;
+	border-radius: 246px;
+	margin-left: 96px;
+	position: relative;
+}
+
+#u174 .clip_frame
 {
 	-webkit-border-radius: 246px 246px 246px 246px;
 }
 
-#u97-10
+#u176-10
 {
 	z-index: 5;
 	display: block;
 	vertical-align: top;
+	margin-left: 38px;
+	margin-top: 23px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 35px;
-	left: 301px;
+}
+
+#u173-bw
+{
+	z-index: 2;
+	min-height: 349.95px;
 }
 
 body
 {
 	position: relative;
-	min-width: 960px;
-	padding-top: 36px;
-	padding-bottom: 36px;
+	min-width: 380px;
 }
 
 #page .verticalspacer
