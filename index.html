@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "museredirect.js", "index.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "museredirect.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "index.css"], "outOfDate":[]};
 </script>
   
   <script src="scripts/museredirect.js?40941066" type="text/javascript"></script>
@@ -18,7 +18,7 @@
   <link media="only screen and (max-device-width: 370px)" rel="alternate" href="http://leo381.github.io/phone/index.html"/>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4052507572"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?3833546874" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?4056065625" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -26,12 +26,62 @@
    </head>
  <body>
 
-  <div class="clearfix" id="page"><!-- column -->
-   <div class="rgba-background clearfix colelem" id="u95"><!-- group -->
-    <div class="rounded-corners clip_frame grpelem" id="u121"><!-- image -->
-     <img class="block" id="u121_img" src="images/imagem%20colada%20431x434-crop-u121.jpg" alt="" width="251" height="254"/>
+  <div class="clearfix" id="page"><!-- group -->
+   <div class="clearfix grpelem" id="pslideshowu342"><!-- group -->
+    <div class="SlideShowWidget clearfix grpelem" id="slideshowu342"><!-- none box -->
+     &nbsp;
+     <div class="popup_anchor" id="u357popup">
+      <div class="SlideShowContentPanel clearfix fullscreen" id="u357"><!-- stack box -->
+       <div class="SSSlide clip_frame fullscreen" id="u358"><!-- image -->
+        <img class="ImageInclude" id="u358_img" data-src="images/photo-1430965914765-930206c18c13.jpg" src="images/blank.gif" alt="" data-width="1160" data-height="653"/>
+       </div>
+       <div class="SSSlide invi clip_frame fullscreen" id="u400"><!-- image -->
+        <img class="ImageInclude" id="u400_img" data-src="images/photo-1451955545619-8036c05af226.jpg" src="images/blank.gif" alt="" data-width="1160" data-height="774"/>
+       </div>
+       <div class="SSSlide invi clip_frame fullscreen" id="u409"><!-- image -->
+        <img class="ImageInclude" id="u409_img" data-src="images/photo-1478059425650-ca13d6d422f4.jpg" src="images/blank.gif" alt="" data-width="1160" data-height="653"/>
+       </div>
+      </div>
+     </div>
+     <div class="popup_anchor" id="u344-4popup">
+      <div class="SSPreviousButton clearfix" id="u344-4"><!-- content -->
+       <p><span id="u344">&lt;</span></p>
+      </div>
+     </div>
+     <div class="popup_anchor" id="u355-4popup">
+      <div class="SSNextButton clearfix" id="u355-4"><!-- content -->
+       <p>&gt;</p>
+      </div>
+     </div>
+     <div class="popup_anchor" id="u345-4popup">
+      <div class="SlideShowLabel SSSlideCount clearfix" id="u345-4"><!-- content -->
+       <p><span id="u345">3 - 3</span></p>
+      </div>
+     </div>
     </div>
-    <img class="grpelem" id="u97-12" alt="Leonardo Dantas 22 anos Marketing Social Media, Javascript e Fotografia" width="592" height="215" src="images/u97-12.png"/><!-- rasterized frame -->
+    <div class="SlideShowWidget clearfix grpelem" id="slideshowu217"><!-- none box -->
+     &nbsp;
+     <div class="popup_anchor" id="u232popup">
+      <div class="SlideShowContentPanel clearfix fullscreen" id="u232"><!-- stack box -->
+       <div class="SSSlide fullscreen" id="u233"><!-- image --></div>
+      </div>
+     </div>
+     <div class="popup_anchor" id="u219-4popup">
+      <div class="SSPreviousButton clearfix" id="u219-4"><!-- content -->
+       <p><span id="u219">&lt;</span></p>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="clearfix grpelem" id="pu95"><!-- group -->
+    <div class="rgba-background clearfix grpelem" id="u95"><!-- group -->
+     <div class="rounded-corners clip_frame grpelem" id="u121"><!-- image -->
+      <img class="block" id="u121_img" src="images/imagem%20colada%20431x434-crop-u121.jpg" alt="" width="251" height="254"/>
+     </div>
+    </div>
+    <div class="clearfix grpelem" id="u97-12"><!-- content -->
+     <p>Leonardo Dantas<br/>22 anos<br/>Marketing<br/><a class="nonblock" href="social-media.html">Social Media</a>, Javascript e Fotografia</p>
+    </div>
    </div>
    <div class="verticalspacer"></div>
   </div>
@@ -43,6 +93,10 @@
    window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
 </script>
   <script src="scripts/museutils.js?183364071" type="text/javascript"></script>
+  <script src="scripts/webpro.js?3803554875" type="text/javascript"></script>
+  <script src="scripts/musewpslideshow.js?242596657" type="text/javascript"></script>
+  <script src="scripts/jquery.museoverlay.js?493285861" type="text/javascript"></script>
+  <script src="scripts/touchswipe.js?4038331989" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?71412426" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -52,6 +106,8 @@ for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.re
 typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Alguns arquivos no servidor podem estar ausentes ou incorretos. Limpe o cache do navegador e tente novamente. Se o problema persistir, entre em contato com o autor do site.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.initWidget('#slideshowu342', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {heroFitting:'fillFrameProportionally',autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'horizontal',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'fullScreen',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false})); });/* #slideshowu342 */
+Muse.Utils.initWidget('#slideshowu217', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {heroFitting:'fillFrameProportionally',autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'horizontal',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'fullScreen',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false})); });/* #slideshowu217 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
