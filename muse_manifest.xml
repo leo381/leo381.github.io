@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="leo381.github.io" resolutions="1x" timestamp="1478605829174">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="leo381.github.io" resolutions="1x" timestamp="1478606121631">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="165599003" ref="index"/>
     <file name="social-media.css" crc="202407424" ref="social-media"/>
+    <file name="index.css" crc="165599003" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="_.ds_store" crc="3809186884" seo="true" mt="1422926162000"/>
@@ -36,22 +36,22 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-mestre.css" crc="4130595748" ref="phone>contato:phone>imprensa:phone>encomendas:phone>index:phone>quem-somos:phone>galeria:phone>menu"/>
-      <file name="contato.css" crc="290385360" ref="phone>contato"/>
-      <file name="imprensa.css" crc="290385360" ref="phone>imprensa"/>
+      <file name="master_a-mestre.css" crc="4130595748" ref="phone>encomendas:phone>quem-somos:phone>imprensa:phone>menu:phone>contato:phone>galeria:phone>index"/>
       <file name="encomendas.css" crc="290385360" ref="phone>encomendas"/>
-      <file name="index.css" crc="4009602456" ref="phone>index"/>
       <file name="quem-somos.css" crc="4081046980" ref="phone>quem-somos"/>
-      <file name="galeria.css" crc="290385360" ref="phone>galeria"/>
+      <file name="imprensa.css" crc="290385360" ref="phone>imprensa"/>
       <file name="menu.css" crc="290385360" ref="phone>menu"/>
+      <file name="contato.css" crc="290385360" ref="phone>contato"/>
+      <file name="galeria.css" crc="290385360" ref="phone>galeria"/>
+      <file name="index.css" crc="535143287" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3802529757" seo="true" mt="1478605750592" redirect="true"/>
-    <file name="quem-somos.html" crc="3830941242" seo="true" mt="1478605750592" redirect="true"/>
-    <file name="menu.html" crc="4151930161" seo="true" mt="1478605750592" redirect="true"/>
-    <file name="galeria.html" crc="3896515097" seo="true" mt="1478605750592" redirect="true"/>
-    <file name="encomendas.html" crc="303821426" seo="true" mt="1478605750592" redirect="true"/>
-    <file name="imprensa.html" crc="85792636" seo="true" mt="1478605750592" redirect="true"/>
-    <file name="contato.html" crc="3845557450" seo="true" mt="1478605750592" redirect="true"/>
+    <file name="index.html" crc="149007926" seo="true" mt="1478606086704" redirect="true"/>
+    <file name="quem-somos.html" crc="248812855" seo="true" mt="1478606086704" redirect="true"/>
+    <file name="menu.html" crc="317408840" seo="true" mt="1478606086704" redirect="true"/>
+    <file name="galeria.html" crc="70777233" seo="true" mt="1478606086704" redirect="true"/>
+    <file name="encomendas.html" crc="4278413139" seo="true" mt="1478606086704" redirect="true"/>
+    <file name="imprensa.html" crc="393888567" seo="true" mt="1478606086704" redirect="true"/>
+    <file name="contato.html" crc="3987621683" seo="true" mt="1478606086704" redirect="true"/>
   </folder>
   <file name="index.html" crc="403731456" seo="true" mt="1478605586152" redirect="true"/>
   <file name="social-media.html" crc="3974451530" seo="true" mt="1478605586152" redirect="true"/>
