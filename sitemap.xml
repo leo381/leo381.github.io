@@ -13,4 +13,10 @@
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://leo381.github.io/phone/index.html"/>
   </url>
+  <url>
+    <loc>http://leo381.github.io/sem-t%C3%ADtulo-3.html</loc>
+    <lastmod>2016-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
