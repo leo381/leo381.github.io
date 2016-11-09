@@ -1,52 +1,52 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="leo381.github.io" resolutions="1x" timestamp="1478720718270">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="leo381.github.io" resolutions="1x" timestamp="1478724685643">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-mestre.css" crc="143325406" ref="imprensa:batizado:jantar:contato:sem-título-20:index:páscoa-2013:brunch:um-menu-exclusivo-para-você.-consulte--nos!:quem-somos:kids:chá-da-tarde:menu:jantar-americano:pessach-2013:happy-hour:almoço:encomendas:chá-de-bêbê:hosh-hashaná"/>
-    <file name="nomq_preview_master_a-mestre.css" crc="3851828689" ref="imprensa:batizado:jantar:contato:sem-título-20:index:páscoa-2013:brunch:um-menu-exclusivo-para-você.-consulte--nos!:quem-somos:kids:chá-da-tarde:menu:jantar-americano:pessach-2013:happy-hour:almoço:encomendas:chá-de-bêbê:hosh-hashaná"/>
-    <file name="master_a-mestre-2.css" crc="3821441647" ref="galeria"/>
+    <file name="master_a-mestre.css" crc="500925290" ref="almoço:jantar:brunch:chá-de-bêbê:imprensa:quem-somos:sem-título-20:happy-hour:index:pessach-2013:contato:jantar-americano:hosh-hashaná:batizado:um-menu-exclusivo-para-você.-consulte--nos!:encomendas:chá-da-tarde:kids:páscoa-2013:menu"/>
+    <file name="nomq_preview_master_a-mestre.css" crc="3851828689" ref="almoço:jantar:brunch:chá-de-bêbê:imprensa:quem-somos:sem-título-20:happy-hour:index:pessach-2013:contato:jantar-americano:hosh-hashaná:batizado:um-menu-exclusivo-para-você.-consulte--nos!:encomendas:chá-da-tarde:kids:páscoa-2013:menu"/>
+    <file name="master_a-mestre-2.css" crc="369995439" ref="galeria"/>
     <file name="nomq_preview_master_a-mestre-2.css" crc="201349363" ref="galeria"/>
-    <file name="imprensa.css" crc="4199708531" ref="imprensa"/>
-    <file name="nomq_imprensa.css" crc="3784149676" ref="imprensa"/>
-    <file name="batizado.css" crc="409562007" ref="batizado"/>
-    <file name="nomq_batizado.css" crc="298674378" ref="batizado"/>
-    <file name="jantar.css" crc="409562007" ref="jantar"/>
-    <file name="nomq_jantar.css" crc="298674378" ref="jantar"/>
-    <file name="contato.css" crc="409562007" ref="contato"/>
-    <file name="nomq_contato.css" crc="298674378" ref="contato"/>
-    <file name="sem-t_tulo-20.css" crc="409562007" ref="sem-título-20"/>
-    <file name="nomq_sem-t_tulo-20.css" crc="298674378" ref="sem-título-20"/>
-    <file name="index.css" crc="3980101231" ref="index"/>
-    <file name="nomq_index.css" crc="350404168" ref="index"/>
-    <file name="p_scoa-2013.css" crc="409562007" ref="páscoa-2013"/>
-    <file name="nomq_p_scoa-2013.css" crc="298674378" ref="páscoa-2013"/>
-    <file name="brunch.css" crc="4263948034" ref="brunch"/>
-    <file name="nomq_brunch.css" crc="329536580" ref="brunch"/>
-    <file name="um-menu-exclusivo-para-voc__-consulte--nos_.css" crc="409562007" ref="um-menu-exclusivo-para-você.-consulte--nos!"/>
-    <file name="nomq_um-menu-exclusivo-para-voc__-consulte--nos_.css" crc="298674378" ref="um-menu-exclusivo-para-você.-consulte--nos!"/>
-    <file name="quem-somos.css" crc="4277805367" ref="quem-somos"/>
-    <file name="nomq_quem-somos.css" crc="3833010284" ref="quem-somos"/>
-    <file name="kids.css" crc="409562007" ref="kids"/>
-    <file name="nomq_kids.css" crc="298674378" ref="kids"/>
-    <file name="ch_-da-tarde.css" crc="409562007" ref="chá-da-tarde"/>
-    <file name="nomq_ch_-da-tarde.css" crc="298674378" ref="chá-da-tarde"/>
-    <file name="menu.css" crc="277525590" ref="menu"/>
-    <file name="nomq_menu.css" crc="180334709" ref="menu"/>
-    <file name="jantar-americano.css" crc="409562007" ref="jantar-americano"/>
-    <file name="nomq_jantar-americano.css" crc="298674378" ref="jantar-americano"/>
-    <file name="pessach-2013.css" crc="409562007" ref="pessach-2013"/>
-    <file name="nomq_pessach-2013.css" crc="298674378" ref="pessach-2013"/>
-    <file name="galeria.css" crc="396368617" ref="galeria"/>
-    <file name="nomq_galeria.css" crc="498499870" ref="galeria"/>
-    <file name="happy-hour.css" crc="409562007" ref="happy-hour"/>
-    <file name="nomq_happy-hour.css" crc="298674378" ref="happy-hour"/>
-    <file name="almo_o.css" crc="409562007" ref="almoço"/>
-    <file name="nomq_almo_o.css" crc="298674378" ref="almoço"/>
-    <file name="encomendas.css" crc="351379924" ref="encomendas"/>
-    <file name="nomq_encomendas.css" crc="333151548" ref="encomendas"/>
-    <file name="ch_-de-b_b_.css" crc="409562007" ref="chá-de-bêbê"/>
-    <file name="nomq_ch_-de-b_b_.css" crc="298674378" ref="chá-de-bêbê"/>
-    <file name="hosh-hashan_.css" crc="409562007" ref="hosh-hashaná"/>
-    <file name="nomq_hosh-hashan_.css" crc="298674378" ref="hosh-hashaná"/>
+    <file name="galeria.css" crc="401632040" ref="galeria"/>
+    <file name="nomq_galeria.css" crc="3784973273" ref="galeria"/>
+    <file name="almo_o.css" crc="3892749819" ref="almoço"/>
+    <file name="nomq_almo_o.css" crc="3868031410" ref="almoço"/>
+    <file name="jantar.css" crc="3892749819" ref="jantar"/>
+    <file name="nomq_jantar.css" crc="3868031410" ref="jantar"/>
+    <file name="brunch.css" crc="4156921519" ref="brunch"/>
+    <file name="nomq_brunch.css" crc="202289386" ref="brunch"/>
+    <file name="ch_-de-b_b_.css" crc="3892749819" ref="chá-de-bêbê"/>
+    <file name="nomq_ch_-de-b_b_.css" crc="3868031410" ref="chá-de-bêbê"/>
+    <file name="imprensa.css" crc="3914867580" ref="imprensa"/>
+    <file name="nomq_imprensa.css" crc="4085332234" ref="imprensa"/>
+    <file name="quem-somos.css" crc="32331719" ref="quem-somos"/>
+    <file name="nomq_quem-somos.css" crc="51878242" ref="quem-somos"/>
+    <file name="sem-t_tulo-20.css" crc="3892749819" ref="sem-título-20"/>
+    <file name="nomq_sem-t_tulo-20.css" crc="3868031410" ref="sem-título-20"/>
+    <file name="happy-hour.css" crc="3892749819" ref="happy-hour"/>
+    <file name="nomq_happy-hour.css" crc="3868031410" ref="happy-hour"/>
+    <file name="index.css" crc="4137335980" ref="index"/>
+    <file name="nomq_index.css" crc="384208383" ref="index"/>
+    <file name="pessach-2013.css" crc="3892749819" ref="pessach-2013"/>
+    <file name="nomq_pessach-2013.css" crc="3868031410" ref="pessach-2013"/>
+    <file name="contato.css" crc="4074822702" ref="contato"/>
+    <file name="nomq_contato.css" crc="472493541" ref="contato"/>
+    <file name="jantar-americano.css" crc="3892749819" ref="jantar-americano"/>
+    <file name="nomq_jantar-americano.css" crc="3868031410" ref="jantar-americano"/>
+    <file name="hosh-hashan_.css" crc="3892749819" ref="hosh-hashaná"/>
+    <file name="nomq_hosh-hashan_.css" crc="3868031410" ref="hosh-hashaná"/>
+    <file name="batizado.css" crc="3892749819" ref="batizado"/>
+    <file name="nomq_batizado.css" crc="3868031410" ref="batizado"/>
+    <file name="um-menu-exclusivo-para-voc__-consulte--nos_.css" crc="3892749819" ref="um-menu-exclusivo-para-você.-consulte--nos!"/>
+    <file name="nomq_um-menu-exclusivo-para-voc__-consulte--nos_.css" crc="3868031410" ref="um-menu-exclusivo-para-você.-consulte--nos!"/>
+    <file name="encomendas.css" crc="248551460" ref="encomendas"/>
+    <file name="nomq_encomendas.css" crc="4113028481" ref="encomendas"/>
+    <file name="ch_-da-tarde.css" crc="3892749819" ref="chá-da-tarde"/>
+    <file name="nomq_ch_-da-tarde.css" crc="3868031410" ref="chá-da-tarde"/>
+    <file name="kids.css" crc="3892749819" ref="kids"/>
+    <file name="nomq_kids.css" crc="3868031410" ref="kids"/>
+    <file name="p_scoa-2013.css" crc="3892749819" ref="páscoa-2013"/>
+    <file name="nomq_p_scoa-2013.css" crc="3868031410" ref="páscoa-2013"/>
+    <file name="menu.css" crc="3974799942" ref="menu"/>
+    <file name="nomq_menu.css" crc="4029257790" ref="menu"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:quem-somos:menu:galeria:encomendas:imprensa:contato:brunch:chá-da-tarde:pessach-2013:almoço:hosh-hashaná:jantar:páscoa-2013:kids:jantar-americano:happy-hour:chá-de-bêbê:batizado:sem-título-20:um-menu-exclusivo-para-você.-consulte--nos!"/>
@@ -119,26 +119,27 @@
     <file name="prato9.jpg" crc="3782595305" seo="true" ref="galeria"/>
     <file name="imagem colada 216x1023.jpg" crc="86750181" seo="true" ref="encomendas"/>
     <file name="imagem colada 216x1024.jpg" crc="3836805719" seo="true" ref="imprensa"/>
+    <file name="imagem colada 216x1025.jpg" crc="3836805719" seo="true" ref="contato"/>
   </folder>
-  <file name="index.html" crc="3870351136" seo="true" mt="1478719293541" redirect="true"/>
-  <file name="quem-somos.html" crc="4276990354" seo="true" mt="1478719293541" redirect="true"/>
-  <file name="menu.html" crc="168737503" seo="true" mt="1478719293541" redirect="true"/>
-  <file name="galeria.html" crc="437898684" seo="true" mt="1478720667542" redirect="true"/>
-  <file name="encomendas.html" crc="380414731" seo="true" mt="1478719293541" redirect="true"/>
-  <file name="imprensa.html" crc="4272838913" seo="true" mt="1478719293541" redirect="true"/>
-  <file name="contato.html" crc="246080190" seo="true" mt="1478719293541" redirect="true"/>
-  <file name="brunch.html" crc="3968437453" seo="true" mt="1478719293541" redirect="true"/>
-  <file name="chá-da-tarde.html" crc="4032161586" seo="true" mt="1478719293541" redirect="true"/>
-  <file name="pessach-2013.html" crc="377322081" seo="true" mt="1478719293541" redirect="true"/>
-  <file name="almoço.html" crc="4101717051" seo="true" mt="1478719293541" redirect="true"/>
-  <file name="hosh-hashaná.html" crc="4262429390" seo="true" mt="1478719293541" redirect="true"/>
-  <file name="jantar.html" crc="163188907" seo="true" mt="1478719293541" redirect="true"/>
-  <file name="páscoa-2013.html" crc="3822732006" seo="true" mt="1478719293541" redirect="true"/>
-  <file name="kids.html" crc="401926334" seo="true" mt="1478719293541" redirect="true"/>
-  <file name="jantar-americano.html" crc="475888791" seo="true" mt="1478719293541" redirect="true"/>
-  <file name="happy-hour.html" crc="403790553" seo="true" mt="1478719293541" redirect="true"/>
-  <file name="chá-de-bêbê.html" crc="168806393" seo="true" mt="1478719293541" redirect="true"/>
-  <file name="batizado.html" crc="4014621792" seo="true" mt="1478719293541" redirect="true"/>
-  <file name="sem-título-20.html" crc="3898631896" seo="true" mt="1478719293541" redirect="true"/>
-  <file name="um-menu-exclusivo-para-você.-consulte--nos!.html" crc="262979058" seo="true" mt="1478719293541" redirect="true"/>
+  <file name="index.html" crc="83222902" seo="true" mt="1478724441377" redirect="true"/>
+  <file name="quem-somos.html" crc="406067653" seo="true" mt="1478724441377" redirect="true"/>
+  <file name="menu.html" crc="3850287811" seo="true" mt="1478724568326" redirect="true"/>
+  <file name="galeria.html" crc="284397193" seo="true" mt="1478724529695" redirect="true"/>
+  <file name="encomendas.html" crc="4016253335" seo="true" mt="1478724441377" redirect="true"/>
+  <file name="imprensa.html" crc="3915781968" seo="true" mt="1478724441377" redirect="true"/>
+  <file name="contato.html" crc="52774532" seo="true" mt="1478724589661" redirect="true"/>
+  <file name="brunch.html" crc="206199127" seo="true" mt="1478724441377" redirect="true"/>
+  <file name="chá-da-tarde.html" crc="4251150815" seo="true" mt="1478724441377" redirect="true"/>
+  <file name="pessach-2013.html" crc="4201158894" seo="true" mt="1478724441377" redirect="true"/>
+  <file name="almoço.html" crc="3937917308" seo="true" mt="1478724441377" redirect="true"/>
+  <file name="hosh-hashaná.html" crc="3971578766" seo="true" mt="1478724441377" redirect="true"/>
+  <file name="jantar.html" crc="4145069394" seo="true" mt="1478724441377" redirect="true"/>
+  <file name="páscoa-2013.html" crc="3865545852" seo="true" mt="1478724441377" redirect="true"/>
+  <file name="kids.html" crc="502891111" seo="true" mt="1478724441377" redirect="true"/>
+  <file name="jantar-americano.html" crc="269543387" seo="true" mt="1478724441377" redirect="true"/>
+  <file name="happy-hour.html" crc="430719475" seo="true" mt="1478724441377" redirect="true"/>
+  <file name="chá-de-bêbê.html" crc="386224502" seo="true" mt="1478724441377" redirect="true"/>
+  <file name="batizado.html" crc="267208140" seo="true" mt="1478724441377" redirect="true"/>
+  <file name="sem-título-20.html" crc="530199761" seo="true" mt="1478724441377" redirect="true"/>
+  <file name="um-menu-exclusivo-para-você.-consulte--nos!.html" crc="185336941" seo="true" mt="1478724441377" redirect="true"/>
 </manifest>

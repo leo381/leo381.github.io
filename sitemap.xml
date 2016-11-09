@@ -7,13 +7,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://leo381.github.io/sem-t%C3%ADtulo-20.html</loc>
+    <loc>http://leo381.github.io/um-menu-exclusivo-para-voc%C3%AA.-consulte--nos!.html</loc>
     <lastmod>2016-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://leo381.github.io/um-menu-exclusivo-para-voc%C3%AA.-consulte--nos!.html</loc>
+    <loc>http://leo381.github.io/sem-t%C3%ADtulo-20.html</loc>
     <lastmod>2016-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -115,25 +115,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://leo381.github.io/quem-somos.html</loc>
-    <lastmod>2016-11-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://leo381.github.io/menu.html</loc>
     <lastmod>2016-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://leo381.github.io/images/imagem%20colada%20630x3419.jpg</loc>
-    <lastmod>2016-11-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://leo381.github.io/images/entrada1.jpg</loc>
+    <loc>http://leo381.github.io/quem-somos.html</loc>
     <lastmod>2016-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -145,7 +133,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://leo381.github.io/images/entrada1.jpg</loc>
+    <lastmod>2016-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://leo381.github.io/images/entrada2.jpg</loc>
+    <lastmod>2016-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://leo381.github.io/images/entrada3.jpg</loc>
     <lastmod>2016-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -169,7 +169,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://leo381.github.io/images/entrada3.jpg</loc>
+    <loc>http://leo381.github.io/images/prato2.jpg</loc>
     <lastmod>2016-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -181,7 +181,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://leo381.github.io/images/prato4.jpg</loc>
+    <loc>http://leo381.github.io/images/imagem%20colada%20630x3419.jpg</loc>
     <lastmod>2016-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -224,6 +224,12 @@
   </url>
   <url>
     <loc>http://leo381.github.io/images/imagem%20colada%20216x1024.jpg</loc>
+    <lastmod>2016-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://leo381.github.io/images/imagem%20colada%20216x1025.jpg</loc>
     <lastmod>2016-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -337,12 +343,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://leo381.github.io/images/prato2.jpg</loc>
-    <lastmod>2016-11-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://leo381.github.io/images/home.jpg</loc>
     <lastmod>2016-11-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -350,6 +350,12 @@
   </url>
   <url>
     <loc>http://leo381.github.io/images/prato3.jpg</loc>
+    <lastmod>2016-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://leo381.github.io/images/prato4.jpg</loc>
     <lastmod>2016-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
