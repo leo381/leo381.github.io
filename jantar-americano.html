@@ -11,17 +11,18 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "jantar-americano.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.musemenu.js", "jquery.watch.js", "musewpdisclosure.js", "jquery.museresponsive.js", "require.js", "jantar-americano.css"], "outOfDate":[]};
 </script>
   
   <title>Jantar Americano</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-mestre.css?crc=3885956049"/>
-  <link rel="stylesheet" type="text/css" href="css/jantar-americano.css?crc=298030895" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-mestre.css?crc=4163467549"/>
+  <link rel="stylesheet" type="text/css" href="css/jantar-americano.css?crc=348993978" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-mestre.css?crc=3824530138" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-mestre.css?crc=4293148480"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_jantar-americano.css?crc=509739894" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- JS includes -->
   <!--[if lt IE 9]>
@@ -30,50 +31,82 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    </head>
  <body>
 
-  <div class="rounded-corners clearfix borderbox" id="page"><!-- group -->
-   <nav class="MenuBar clearfix grpelem" id="menuu528"><!-- horizontal box -->
-    <div class="MenuItemContainer borderbox clearfix grpelem" id="u529"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u530" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u531-4"><!-- content --><p>Início</p></div></a>
-    </div>
-    <div class="MenuItemContainer borderbox clearfix grpelem" id="u536"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u539" href="quem-somos.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u542-4"><!-- content --><p>Quem Somos</p></div></a>
-    </div>
-    <div class="MenuItemContainer borderbox clearfix grpelem" id="u588"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u589" href="menu.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u592-4"><!-- content --><p>Menu</p></div></a>
-    </div>
-    <div class="MenuItemContainer borderbox clearfix grpelem" id="u616"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u617" href="galeria.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u620-4"><!-- content --><p>Galeria</p></div></a>
-    </div>
-    <div class="MenuItemContainer borderbox clearfix grpelem" id="u644"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u645" href="encomendas.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u648-4"><!-- content --><p>Encomendas</p></div></a>
-    </div>
-    <div class="MenuItemContainer borderbox clearfix grpelem" id="u672"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u675" href="imprensa.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u676-4"><!-- content --><p>Imprensa</p></div></a>
-    </div>
-    <div class="MenuItemContainer borderbox clearfix grpelem" id="u700"><!-- vertical box -->
-     <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u701" href="contato.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u702-4"><!-- content --><p>Contato</p></div></a>
-    </div>
-   </nav>
-   <div class="PamphletWidget clearfix grpelem" id="pamphletu3580"><!-- none box -->
-    <div class="ThumbGroup clearfix grpelem" id="u3598"><!-- none box -->
-     <div class="popup_anchor" id="u3603popup">
-      <div class="Thumb popup_element" id="u3603"><!-- simple frame --></div>
+  <div class="breakpoint active" id="bp_infinity" data-min-width="881"><!-- responsive breakpoint node -->
+   <div class="rounded-corners clearfix borderbox" id="page"><!-- group -->
+    <nav class="MenuBar clearfix grpelem" id="menuu528"><!-- horizontal box -->
+     <div class="MenuItemContainer borderbox clearfix grpelem" id="u529"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u530" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u531-4"><!-- content --><p>Início</p></div></a>
      </div>
-    </div>
-    <div class="popup_anchor" id="u3583popup">
-     <div class="ContainerGroup clearfix" id="u3583"><!-- stack box -->
-      <div class="Container invi clearfix grpelem" id="u3584"><!-- column -->
-       <a class="nonblock nontext clearfix colelem" id="u3715" href="brunch.html"><!-- group --><div class="clearfix grpelem" id="u3733-4"><!-- content --><p>Brunch</p></div></a>
-       <a class="nonblock nontext clearfix colelem" id="u3718" href="ch%c3%a1-da-tarde.html"><!-- group --><div class="clearfix grpelem" id="u3736-4"><!-- content --><p>Chá da Tarde</p></div></a>
-       <a class="nonblock nontext clearfix colelem" id="u3721" href="jantar.html"><!-- group --><div class="clearfix grpelem" id="u3742-4"><!-- content --><p>Jantar</p></div></a>
-       <a class="nonblock nontext clearfix colelem" id="u3724" href="hosh-hashan%c3%a1.html"><!-- group --><div class="clearfix grpelem" id="u3745-4"><!-- content --><p>Hosh Hashaná</p></div></a>
-       <a class="nonblock nontext clearfix colelem" id="u3727" href="almo%c3%a7o.html"><!-- group --><div class="clearfix grpelem" id="u3748-4"><!-- content --><p>Almoço</p></div></a>
-       <a class="nonblock nontext clearfix colelem" id="u3730" href="batizado.html"><!-- group --><div class="clearfix grpelem" id="u3751-4"><!-- content --><p>Batizado</p></div></a>
+     <div class="MenuItemContainer borderbox clearfix grpelem" id="u536"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u539" href="quem-somos.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u542-4"><!-- content --><p>Quem Somos</p></div></a>
+     </div>
+     <div class="MenuItemContainer borderbox clearfix grpelem" id="u588"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u589" href="menu.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u592-4"><!-- content --><p>Menu</p></div></a>
+     </div>
+     <div class="MenuItemContainer borderbox clearfix grpelem" id="u616"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u617" href="galeria.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u620-4"><!-- content --><p>Galeria</p></div></a>
+     </div>
+     <div class="MenuItemContainer borderbox clearfix grpelem" id="u644"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u645" href="encomendas.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u648-4"><!-- content --><p>Encomendas</p></div></a>
+     </div>
+     <div class="MenuItemContainer borderbox clearfix grpelem" id="u672"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u675" href="imprensa.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u676-4"><!-- content --><p>Imprensa</p></div></a>
+     </div>
+     <div class="MenuItemContainer borderbox clearfix grpelem" id="u700"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u701" href="contato.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u702-4"><!-- content --><p>Contato</p></div></a>
+     </div>
+    </nav>
+    <div class="PamphletWidget clearfix grpelem" id="pamphletu3580"><!-- none box -->
+     <div class="ThumbGroup clearfix grpelem" id="u3598"><!-- none box -->
+      <div class="popup_anchor" id="u3603popup">
+       <div class="Thumb popup_element" id="u3603"><!-- simple frame --></div>
+      </div>
+     </div>
+     <div class="popup_anchor" id="u3583popup">
+      <div class="ContainerGroup clearfix" id="u3583"><!-- stack box -->
+       <div class="Container invi clearfix grpelem" id="u3584"><!-- column -->
+        <a class="nonblock nontext clearfix colelem" id="u3715" href="brunch.html"><!-- group --><div class="clearfix grpelem" id="u3733-4"><!-- content --><p>Brunch</p></div></a>
+        <a class="nonblock nontext clearfix colelem" id="u3718" href="ch%c3%a1-da-tarde.html"><!-- group --><div class="clearfix grpelem" id="u3736-4"><!-- content --><p>Chá da Tarde</p></div></a>
+        <a class="nonblock nontext clearfix colelem" id="u3721" href="jantar.html"><!-- group --><div class="clearfix grpelem" id="u3742-4"><!-- content --><p>Jantar</p></div></a>
+        <a class="nonblock nontext clearfix colelem" id="u3724" href="hosh-hashan%c3%a1.html"><!-- group --><div class="clearfix grpelem" id="u3745-4"><!-- content --><p>Hosh Hashaná</p></div></a>
+        <a class="nonblock nontext clearfix colelem" id="u3727" href="almo%c3%a7o.html"><!-- group --><div class="clearfix grpelem" id="u3748-4"><!-- content --><p>Almoço</p></div></a>
+        <a class="nonblock nontext clearfix colelem" id="u3730" href="batizado.html"><!-- group --><div class="clearfix grpelem" id="u3751-4"><!-- content --><p>Batizado</p></div></a>
+       </div>
       </div>
      </div>
     </div>
+    <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="419" data-content-below-spacer="480"></div>
    </div>
-   <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="419" data-content-below-spacer="480"></div>
+  </div>
+  <div class="breakpoint" id="bp_880" data-min-width="451" data-max-width="880"><!-- responsive breakpoint node -->
+   <div class="rounded-corners clearfix borderbox temp_no_id" data-orig-id="page"><!-- column -->
+    <div class="accordion_wrapper colelem" id="accordionu13236wrapper"><!-- vertical box -->
+     <ul class="AccordionWidget clearfix" id="accordionu13236"><!-- column -->
+      <li class="AccordionPanel borderbox clearfix colelem" id="u13237"><!-- vertical box --><div class="AccordionPanelTab borderbox clearfix colelem" id="u13240-3"><!-- content --><div id="u13240-2" class="shared_content" data-content-guid="u13240-2_content"><p>&nbsp;</p></div></div><div class="AccordionPanelContent borderbox clearfix colelem" id="u13238"><!-- group --><nav class="MenuBar clearfix grpelem" id="menuu13301"><!-- vertical box --><div class="MenuItemContainer borderbox clearfix colelem" id="u13309"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u13312" href="index.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u13314-4"><!-- content --><p class="shared_content" data-content-guid="u13314-4_0_content">Início</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u13302"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u13305" href="quem-somos.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u13308-4"><!-- content --><p class="shared_content" data-content-guid="u13308-4_0_content">Quem Somos</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u13376"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u13379" href="menu.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u13380-4"><!-- content --><p class="shared_content" data-content-guid="u13380-4_0_content">Menu</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u13441"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u13442" href="galeria.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u13445-4"><!-- content --><p class="shared_content" data-content-guid="u13445-4_0_content">Galeria</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u13497"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u13498" href="encomendas.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u13500-4"><!-- content --><p class="shared_content" data-content-guid="u13500-4_0_content">Encomendas</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u13553"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u13554" href="imprensa.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u13555-4"><!-- content --><p class="shared_content" data-content-guid="u13555-4_0_content">Imprensa</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u13609"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u13610" href="contato.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u13612-4"><!-- content --><p class="shared_content" data-content-guid="u13612-4_0_content">Contato</p></div></a></div></nav></div></li>
+     </ul>
+    </div>
+    <div class="verticalspacer shared_content" data-offset-top="0" data-content-above-spacer="310" data-content-below-spacer="170" data-content-guid="page_1_content"></div>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_450" data-min-width="321" data-max-width="450"><!-- responsive breakpoint node -->
+   <div class="rounded-corners clearfix borderbox temp_no_id" data-orig-id="page"><!-- column -->
+    <div class="accordion_wrapper colelem temp_no_id" data-orig-id="accordionu13236wrapper"><!-- vertical box -->
+     <ul class="AccordionWidget clearfix temp_no_id" data-orig-id="accordionu13236"><!-- column -->
+      <li class="AccordionPanel borderbox clearfix colelem temp_no_id" data-orig-id="u13237"><!-- vertical box --><div class="AccordionPanelTab borderbox clearfix colelem temp_no_id" data-orig-id="u13240-3"><!-- content --><span class="placeholder" data-placeholder-for="u13240-2_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent borderbox clearfix colelem temp_no_id" data-orig-id="u13238"><!-- group --><nav class="MenuBar clearfix grpelem temp_no_id" data-orig-id="menuu13301"><!-- vertical box --><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u13309"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="index.html" data-orig-id="u13312"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u13314-4"><!-- content --><span class="placeholder" data-placeholder-for="u13314-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u13302"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="quem-somos.html" data-orig-id="u13305"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u13308-4"><!-- content --><span class="placeholder" data-placeholder-for="u13308-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u13376"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="menu.html" data-orig-id="u13379"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u13380-4"><!-- content --><span class="placeholder" data-placeholder-for="u13380-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u13441"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="galeria.html" data-orig-id="u13442"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u13445-4"><!-- content --><span class="placeholder" data-placeholder-for="u13445-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u13497"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="encomendas.html" data-orig-id="u13498"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u13500-4"><!-- content --><span class="placeholder" data-placeholder-for="u13500-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u13553"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="imprensa.html" data-orig-id="u13554"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u13555-4"><!-- content --><span class="placeholder" data-placeholder-for="u13555-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u13609"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="contato.html" data-orig-id="u13610"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u13612-4"><!-- content --><span class="placeholder" data-placeholder-for="u13612-4_0_content"><!-- placeholder node --></span></div></a></div></nav></div></li>
+     </ul>
+    </div>
+    <span class="verticalspacer placeholder" data-placeholder-for="page_1_content"><!-- placeholder node --></span>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_320" data-max-width="320"><!-- responsive breakpoint node -->
+   <div class="rounded-corners clearfix borderbox temp_no_id" data-orig-id="page"><!-- column -->
+    <div class="accordion_wrapper colelem temp_no_id" data-orig-id="accordionu13236wrapper"><!-- vertical box -->
+     <ul class="AccordionWidget clearfix temp_no_id" data-orig-id="accordionu13236"><!-- column -->
+      <li class="AccordionPanel borderbox clearfix colelem temp_no_id" data-orig-id="u13237"><!-- vertical box --><div class="AccordionPanelTab borderbox clearfix colelem temp_no_id" data-orig-id="u13240-3"><!-- content --><span class="placeholder" data-placeholder-for="u13240-2_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent borderbox clearfix colelem temp_no_id" data-orig-id="u13238"><!-- group --><nav class="MenuBar clearfix grpelem temp_no_id" data-orig-id="menuu13301"><!-- vertical box --><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u13309"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="index.html" data-orig-id="u13312"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u13314-4"><!-- content --><span class="placeholder" data-placeholder-for="u13314-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u13302"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="quem-somos.html" data-orig-id="u13305"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u13308-4"><!-- content --><span class="placeholder" data-placeholder-for="u13308-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u13376"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="menu.html" data-orig-id="u13379"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u13380-4"><!-- content --><span class="placeholder" data-placeholder-for="u13380-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u13441"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="galeria.html" data-orig-id="u13442"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u13445-4"><!-- content --><span class="placeholder" data-placeholder-for="u13445-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u13497"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="encomendas.html" data-orig-id="u13498"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u13500-4"><!-- content --><span class="placeholder" data-placeholder-for="u13500-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u13553"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="imprensa.html" data-orig-id="u13554"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u13555-4"><!-- content --><span class="placeholder" data-placeholder-for="u13555-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix colelem temp_no_id" data-orig-id="u13609"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem temp_no_id" href="contato.html" data-orig-id="u13610"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem temp_no_id" data-orig-id="u13612-4"><!-- content --><span class="placeholder" data-placeholder-for="u13612-4_0_content"><!-- placeholder node --></span></div></a></div></nav></div></li>
+     </ul>
+    </div>
+    <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="271" data-content-below-spacer="209"></div>
+   </div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -81,14 +114,15 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Alguns arquivos no servidor podem estar ausentes ou incorretos. Limpe o cache do navegador e tente novamente. Se o problema persistir, entre em contato com o autor do site.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","webpro","musewpslideshow","jquery.museoverlay","touchswipe","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","webpro","musewpslideshow","jquery.museoverlay","touchswipe","jquery.watch","musewpdisclosure","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_880', '#bp_450', '#bp_320'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#pamphletu3580', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'mouseover',deactivationEvent:'mouseout_both',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:0,hideAllContentsFirst:true,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu3580 */
-Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.initWidget('#accordionu13236', ['#bp_880', '#bp_450', '#bp_320'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:0}); });/* #accordionu13236 */
+$( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
 
