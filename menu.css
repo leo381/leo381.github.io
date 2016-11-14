@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+.titulo {
+	position: relative;
+	left: 485px;
+	top: 20px;
+	display: block;
+	font-family: Spinnaker, sans-serif;
+	font-size: 36px;
+	text-transform: uppercase;
+}
+
+.logo {
+position: absolute;
+	top: 35px;
+	left: 195px;
+}
+
+ul {
+	position:relative;
+	top:20px;
+	left:470px;
+	right: 90px;
+	list-style: none;
+}
+li {
+	font-size: 14px;
+	display: inline-block;
+	text-transform: uppercase;
+	font-family: Spinnaker, sans-serif;
+	padding: 0px 10px 0px 10px;
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+}

@@ -1,0 +1,95 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html,
+html * {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Josefin Sans'), local('JosefinSans'), url(http://fonts.gstatic.com/s/josefinsans/v9/xgzbb53t8j-Mo-vYa23n5qRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+}
+.style-logo{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.style-nav ul{
+	list-style-type: none;
+}
+.style-nav ul li a{
+	font-family:'Josefin Sans';
+	text-decoration: none;
+	color:#000000;
+	text-align: center;
+	display: block;
+	text-transform: uppercase;
+	padding: 8px;
+}
+
+/*.style-text {
+	text-align: left;
+	font-family: 'Josefin Sans';
+	float: left;
+	margin-right: 300px;
+}*/
+
+/*.style-img {
+	display: block;
+    float: right;
+    margin: 0px 130px 10px 75px;
+}*/
+.style-img2 {
+	align-content: space-around;
+}
+
+
+@media(min-width:768px){
+	.style-logo{
+		margin-left:50px;
+	}
+	.style-nav ul li{
+		display:inline-block;
+	}
+	.style-nav ul{
+		text-align: center;
+	}
+}
+
+table {
+	position:relative;
+	margin:auto;
+	width: 50%;
+	left:100px;
+	top: 50px;
+	display: block;
+	text-align: center;
+	padding-bottom: 50px;
+}
+@media screen and (max-width:480px) and (min-width:320px){
+	body {
+		margin: 0;
+	}
+	.style-logo{
+		width: 300px;
+		position: relative;
+		left: 5px;
+	}
+	.overlay {
+		margin: 0;
+		padding:0;
+	}
+	table {
+	position:relative;
+	margin:auto;
+	width: 100%;
+	left:0px;
+		font-size: 9px;
+	}
+}
