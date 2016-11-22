@@ -1,49 +1,63 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="partyon.com.br" resolutions="1x" timestamp="1479675786926">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="partyon.com.br" resolutions="1x" timestamp="1479812427997">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="88969012" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="41294793" ref="index"/>
-    <file name="nomq_index.css" crc="4004138534" ref="index"/>
+    <file name="index.css" crc="99971177" ref="index"/>
+    <file name="nomq_index.css" crc="3986473335" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="163421577" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
     <file name="webpro.js" crc="3848665353" ref="index"/>
     <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
     <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
     <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
     <file name="require.js" crc="244322403" ref="index"/>
   </folder>
   <folder name="images">
     <file name="u94-4.png" crc="470301817" ref="index"/>
-    <file name="casamento-crop-u249.jpg" crc="4136350818" ref="index"/>
-    <file name="fotografo-casamento-crop-u276.jpg" crc="3797739111" ref="index"/>
-    <file name="ass-crop-u288.jpg" crc="3807131733" ref="index"/>
-    <file name="chef-carosella copy-crop-u298.jpg" crc="3775255" ref="index"/>
-    <file name="nota-debutantes-crop-u602.jpg" crc="113273789" ref="index"/>
-    <file name="fotografo-balada-crop-u350.jpg" crc="4187196445" ref="index"/>
-    <file name="bartender-crop-u370.jpg" crc="3894154388" ref="index"/>
-    <file name="chef-especial-crop-u360.jpg" crc="3961425216" ref="index"/>
-    <file name="pets-crop-u682.jpg" crc="488115249" ref="index"/>
+    <file name="u865-4.png" crc="4175019362" ref="index"/>
+    <file name="u923-4.png" crc="4123288435" ref="index"/>
+    <file name="u968-4.png" crc="472700690" ref="index"/>
+    <file name="casamento-crop-u249.jpg" crc="240824795" ref="index"/>
+    <file name="u830-4.png" crc="455589937" ref="index"/>
+    <file name="u834-4.png" crc="4014095777" ref="index"/>
+    <file name="u840-4.png" crc="4080459395" ref="index"/>
+    <file name="fotografo-casamento-crop-u276.jpg" crc="409544914" ref="index"/>
+    <file name="ass-crop-u288.jpg" crc="4173501075" ref="index"/>
+    <file name="chef-carosella copy-crop-u298.jpg" crc="287796591" ref="index"/>
+    <file name="nota-debutantes-crop-u602.jpg" crc="295064320" ref="index"/>
+    <file name="fotografo-balada-crop-u350.jpg" crc="4076741497" ref="index"/>
+    <file name="bartender-crop-u370.jpg" crc="311889529" ref="index"/>
+    <file name="chef-especial-crop-u360.jpg" crc="272346698" ref="index"/>
+    <file name="pets-crop-u682.jpg" crc="3775729556" ref="index"/>
     <file name="dr-pet-no-sbt-crop-u694.png" crc="3862765584" ref="index"/>
-    <file name="chef-doces copy-crop-u706.jpg" crc="3902428907" ref="index"/>
-    <file name="fotografo-pets-crop-u718.jpg" crc="430227553" ref="index"/>
-    <file name="casamento-crop-u2492.jpg" crc="4136350818" ref="index"/>
-    <file name="nota-debutantes-crop-u6022.jpg" crc="113273789" ref="index"/>
-    <file name="pets-crop-u6822.jpg" crc="488115249" ref="index"/>
-    <file name="fotografo-balada-crop-u3502.jpg" crc="4187196445" ref="index"/>
-    <file name="fotografo-casamento-crop-u2762.jpg" crc="3797739111" ref="index"/>
+    <file name="chef-doces copy-crop-u706.jpg" crc="170640412" ref="index"/>
+    <file name="fotografo-pets-crop-u718.jpg" crc="4191694799" ref="index"/>
+    <file name="casamento-crop-u2492.jpg" crc="240824795" ref="index"/>
+    <file name="nota-debutantes-crop-u6022.jpg" crc="295064320" ref="index"/>
+    <file name="pets-crop-u6822.jpg" crc="3775729556" ref="index"/>
+    <file name="fotografo-balada-crop-u3502.jpg" crc="4076741497" ref="index"/>
+    <file name="fotografo-casamento-crop-u2762.jpg" crc="409544914" ref="index"/>
     <file name="dr-pet-no-sbt-crop-u6942.png" crc="3862765584" ref="index"/>
-    <file name="bartender-crop-u3702.jpg" crc="3894154388" ref="index"/>
-    <file name="chef-doces copy-crop-u7062.jpg" crc="3902428907" ref="index"/>
-    <file name="ass-crop-u2882.jpg" crc="3807131733" ref="index"/>
-    <file name="fotografo-pets-crop-u7182.jpg" crc="430227553" ref="index"/>
-    <file name="chef-especial-crop-u3602.jpg" crc="3961425216" ref="index"/>
-    <file name="chef-carosella copy-crop-u2982.jpg" crc="3775255" ref="index"/>
+    <file name="u834-42.png" crc="4106137816" ref="index"/>
+    <file name="bartender-crop-u3702.jpg" crc="311889529" ref="index"/>
+    <file name="chef-doces copy-crop-u7062.jpg" crc="170640412" ref="index"/>
+    <file name="ass-crop-u2882.jpg" crc="4173501075" ref="index"/>
+    <file name="u830-42.png" crc="455589937" ref="index"/>
+    <file name="u865-42.png" crc="4175019362" ref="index"/>
+    <file name="u923-42.png" crc="85216945" ref="index"/>
+    <file name="u968-42.png" crc="355645903" ref="index"/>
+    <file name="u840-42.png" crc="4080459395" ref="index"/>
+    <file name="fotografo-pets-crop-u7182.jpg" crc="4191694799" ref="index"/>
+    <file name="chef-especial-crop-u3602.jpg" crc="272346698" ref="index"/>
+    <file name="chef-carosella copy-crop-u2982.jpg" crc="287796591" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="115095261" seo="true" mt="1479675730418" redirect="true"/>
+  <file name="index.html" crc="293750543" seo="true" mt="1479812262620" redirect="true"/>
 </manifest>
