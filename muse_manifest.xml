@@ -1,41 +1,27 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="partyon.com.br" resolutions="1x" timestamp="1479818127312">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="leo381.github.com" resolutions="1x" timestamp="1486754483019">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="59822169" ref="index"/>
-    <file name="index.css" crc="4028172343" ref="index"/>
+    <file name="master_a-mestre.css" crc="319655018" ref="contato:habilidades:index:no-que-trabalhei"/>
+    <file name="contato.css" crc="3971558188" ref="contato"/>
+    <file name="habilidades.css" crc="45820222" ref="habilidades"/>
+    <file name="index.css" crc="445553926" ref="index"/>
+    <file name="no-que-trabalhei.css" crc="4229878416" ref="no-que-trabalhei"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="163421577" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="36584860" ref="index"/>
-    <file name="webpro.js" crc="3848665353" ref="index"/>
-    <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:habilidades:no-que-trabalhei:contato"/>
+    <file name="museutils.js" crc="4148063285" ref="index:habilidades:no-que-trabalhei:contato"/>
+    <file name="whatinput.js" crc="86476730" ref="index:habilidades:no-que-trabalhei:contato"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:habilidades:no-que-trabalhei:contato"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:habilidades:no-que-trabalhei:contato"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:habilidades:no-que-trabalhei:contato"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:habilidades:no-que-trabalhei:contato"/>
+    <file name="require.js" crc="4159430777" ref="index:habilidades:no-que-trabalhei:contato"/>
   </folder>
   <folder name="images">
-    <file name="casamento-crop-u249.jpg" crc="240824795" ref="index"/>
-    <file name="nota-debutantes-crop-u602.jpg" crc="295064320" ref="index"/>
-    <file name="pets-crop-u682.jpg" crc="3775729556" ref="index"/>
-    <file name="u94-4.png" crc="381228969" ref="index"/>
-    <file name="fotografo-balada-crop-u350.jpg" crc="4076741497" ref="index"/>
-    <file name="fotografo-casamento-crop-u276.jpg" crc="409544914" ref="index"/>
-    <file name="dr-pet-no-sbt-crop-u694.png" crc="3862765584" ref="index"/>
-    <file name="u834-4.png" crc="4106137816" ref="index"/>
-    <file name="bartender-crop-u370.jpg" crc="311889529" ref="index"/>
-    <file name="chef-doces copy-crop-u706.jpg" crc="170640412" ref="index"/>
-    <file name="u865-4.png" crc="4175019362" ref="index"/>
-    <file name="u923-4.png" crc="85216945" ref="index"/>
-    <file name="u968-4.png" crc="355645903" ref="index"/>
-    <file name="u830-4.png" crc="455589937" ref="index"/>
-    <file name="ass-crop-u288.jpg" crc="4173501075" ref="index"/>
-    <file name="u840-4.png" crc="4080459395" ref="index"/>
-    <file name="fotografo-pets-crop-u718.jpg" crc="4191694799" ref="index"/>
-    <file name="chef-especial-crop-u360.jpg" crc="272346698" ref="index"/>
-    <file name="chef-carosella copy-crop-u298.jpg" crc="287796591" ref="index"/>
+    <file name="9740299046_9eb68406a9_k (2).jpg" crc="84363893" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3855903636" seo="true" mt="1479818060265" redirect="true"/>
+  <file name="index.html" crc="4003149065" seo="true" mt="1486331306710" redirect="true"/>
+  <file name="habilidades.html" crc="4036682854" seo="true" mt="1486754336719" redirect="true"/>
+  <file name="no-que-trabalhei.html" crc="3959333822" seo="true" mt="1486331451597" redirect="true"/>
+  <file name="contato.html" crc="241966730" seo="true" mt="1486331306710" redirect="true"/>
 </manifest>
